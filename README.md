@@ -1,5 +1,5 @@
 ## Hi there 👋
-[MasterHead](https://t3.ftcdn.net/jpg/08/67/03/70/360_F_867037033_w58TB9ajDLjLjQCOrqAuthXqY7stQYbv.jpg)
+
 <h1 align="center">Hi 👋, I'm Mohammad Naasir Hussain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 https://t3.ftcdn.net/jpg/08/67/03/70/360_F_867037033_w58TB9ajDLjLjQCOrqAuthXqY7stQYbv.jpg
